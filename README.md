@@ -50,13 +50,6 @@ This project implements a LoRa-based greenhouse monitoring system using ESP8266 
 - Mobile application for real-time monitoring
 - AI-based analysis for predictive farming insights
 
-## Contributors
-
-- A. Ankitha
-- K. Syarvani
-- L. Aakanksha
-- S. Mithila
-
 ## License
 
 This project is open-source and available under the MIT License.
